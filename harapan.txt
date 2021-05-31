@@ -1,4 +1,5 @@
 fauzanhr wishlist
--belajar git dan github
 -belajar tentang data dan machine learning
 -perkuat sql dan database
+-belajar git dan github
+-belajar apache dan tomcat
